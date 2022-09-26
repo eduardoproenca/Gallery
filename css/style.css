@@ -1,16 +1,16 @@
 @font-face {
     font-family: Bebas;
-    src: url(/fonts/BebasNeue-Regular.ttf);
+    src: url(../fonts/BebasNeue-Regular.ttf);
 }
 
 @font-face {
     font-family: Bungee;
-    src: url(/fonts/BungeeSpice-Regular.ttf);
+    src: url(../fonts/BungeeSpice-Regular.ttf);
 }
 
 @font-face {
     font-family: Nabla;
-    src: url(/fonts/Nabla-Regular-VariableFont_EDPT\,EHLT.ttf);
+    src: url(../fonts/Nabla-Regular-VariableFont_EDPT\,EHLT.ttf);
 }
 
 
